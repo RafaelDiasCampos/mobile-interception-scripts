@@ -39,7 +39,6 @@ Available hooks are:
 - `Facebook/Android/tls_unpin.js` and `Facebook/iOS/tls_unpin.js`
 - `Instagram/Android/tls_unpin.js` and `Instagram/iOS/tls_unpin.js`
 - `TikTok/iOS/tls_unpin.js`
-- `WhatsApp/iOS/plaintext_log.js`
 
 For example, load Instagram iOS with:
 
